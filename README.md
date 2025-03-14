@@ -1,5 +1,5 @@
 # Trading Bot using Basis python Ai Agents
-I tried with Mistral, Deepseek-R1, Gpt-4o, Claude and Gemini
+This bot used following Models Pixtral-12b , Deepseek-R1 -70b , Gpt-4o, Claude and Gemini, deepseek-4B - olama
 
 Paid GPT-4o gives out accurate predictions on NIFTY Call and buy Option for intraday trades with accuracy of 95% - Hit Trade/ (Hit Trades + Miss Trades)
 
